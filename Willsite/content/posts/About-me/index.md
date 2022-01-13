@@ -10,7 +10,7 @@ showFullContent = false
 readingTime = false
 +++
 
-![Photo](/static/img/photo.JPG)
+![Photo](photo.JPG)
 
 # My name is William BAUDRAND CHAUDEYRAC
 
