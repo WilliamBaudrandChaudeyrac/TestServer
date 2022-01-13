@@ -1,4 +1,4 @@
-baseurl = "https://rae434Servertest.gitlab.io/hugo-website/"
+baseurl = "http://example.com"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
