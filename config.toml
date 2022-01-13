@@ -54,7 +54,7 @@ title = 'William Website'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "willsite"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
